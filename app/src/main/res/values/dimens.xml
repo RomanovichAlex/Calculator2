@@ -2,4 +2,6 @@
 <resources>
     <dimen name="button_text">42sp</dimen>
     <dimen name="margin_button">2dp</dimen>
+    <dimen name="layout_width0">0dp</dimen>
+    <dimen name="Radius">50dp</dimen>
 </resources>

@@ -13,4 +13,22 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Lesson4">
+        <item name="android:layout_width">@dimen/layout_width0</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/button_text</item>
+        <item name="android:layout_margin">@dimen/margin_button</item>
+        <item name="android:backgroundTint">@color/ButtonColor</item>
+    </style>
+
+    <style name="MyStyle" parent="Lesson4">
+        <item name="android:textColor">@color/TextColorPink</item>
+
+    </style>
+
+    <style name="MyStyle1" parent="Lesson4">
+        <item name="android:textColor">@color/equallyGreen</item>
+    </style>
+
 </resources>
