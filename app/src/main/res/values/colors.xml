@@ -9,6 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="ButtonColor">#6A000000</color>
     <color name="TextColorPink">#FFFF0099</color>
-    <color name="equallyGreen">#32BC01</color>
+    <color name="equallyGreen">#000000</color>
     <color name="backgraundString">#FFFFFF</color>
 </resources>
